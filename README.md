@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 Here are some of the projects I'm currently working on:
 
-- [Web Scraper](https://github.com/DLiu7/WebScraper): A Web Scraper made in Python.
+- 
 - 
 - 
 
